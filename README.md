@@ -1,6 +1,6 @@
-# flutter_app
+# online shopping flutter_app 
 
-A new Flutter application.
+my first app based on tutorial https://www.youtube.com/playlist?list=PLtoqJbwHBeHwvIdBcZ9ItZ6vr6LM6Bx8W
 
 ## Getting Started
 
