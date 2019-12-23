@@ -1,6 +1,8 @@
 # online shopping flutter_app 
 
-my first app based on tutorial https://www.youtube.com/playlist?list=PLtoqJbwHBeHwvIdBcZ9ItZ6vr6LM6Bx8W
+my first app based on tutorial https://www.youtube.com/playlist?list=PLtoqJbwHBeHwvIdBcZ9ItZ6vr6LM6Bx8W of Haritha Weerathunga
+
+
 
 ## Getting Started
 
